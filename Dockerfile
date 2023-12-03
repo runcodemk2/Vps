@@ -1,4 +1,4 @@
-# Use the base image
+# Use the base imag
 FROM fredblgr/ubuntu-novnc:20.04
  
 # Expose the port on which NoVNC runs (80 inside the container)
